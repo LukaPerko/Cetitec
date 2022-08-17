@@ -52,7 +52,6 @@
     <Content Include="TestInput05.txt" />
     <Content Include="TestCheck05.txt" />
     <Content Include="TestInput06.txt" />
-    <Content Include="TestOutput06.txt" />
     <Content Include="TestCheck06.txt" />
     <Content Include="TestCheck07.txt" />
     <Content Include="TestInput07.txt" />
@@ -66,7 +65,6 @@
     <Content Include="TestCheck13.txt" />
     <Content Include="TestInput14.txt" />
     <Content Include="TestCheck14.txt" />
-    <Content Include="TrestInput08.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
